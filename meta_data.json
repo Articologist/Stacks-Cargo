@@ -1,8 +1,16 @@
 {
     "categories": {
-        "0": "ecommerce"
+        "0": "ecommerce",
+        "1": "technical",
+        "2": "productivity",
+        "3": "internationalization",
+        "4": "payment"
     },
+    "demo_page": "https://test-stacks-plugin.bubbleapps.io/version-test",
+    "description": "NoCodeClarity has launched the world's first No Code plugin for the Stacks blockchain, empowering the next generation of Web3 developers and users to interact with Stacks in a seamless way. We are bringing Clarity to No Code!\n\nWith the Stacks plugin, you are able to create workflows that allow your apps to do transactions, authenticate the connection to your Hiro wallet, create a new Hiro wallet by signing up, log in through your Hiro wallet, and even do smart contract function calls! \n\nNoCodeClarity will add functionality as needed. \n\nWithout the support of the Stacks Foundation through a grant, this would not be possible so thank you! \n\nTo learn more about Stacks, please visit www.Stacks.org today! \n\n",
     "image": "//s3.amazonaws.com/appforest_uf/f1650407483313x214487250107572100/395A0CA9-5DCD-4E96-B54F-EC73676155A2.jpeg",
+    "license": "open_source",
     "link": "https://nocodeclarity.com ",
-    "name": "The Stacks Plug-in"
+    "name": "The Stacks Plug-In",
+    "plugin_instructions": "For instructions, please visit https://s3.amazonaws.com/appforest_uf/f1650981650775x522921587213709630/Instructions.pdf "
 }
